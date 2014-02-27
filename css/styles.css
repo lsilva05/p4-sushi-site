@@ -1,0 +1,15 @@
+#location{
+	color: silver;
+	font-size: .75em;
+	padding: 5px;
+	line-height: 18px;
+	background: black;
+}
+
+h1{
+	color: darkred;
+}
+
+.menu-item{
+	float: left;
+}
